@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TitanPunkUnity.data.unityweb",
+"asmCodeUrl": "TitanPunkUnity.asm.code.unityweb",
+"asmMemoryUrl": "TitanPunkUnity.asm.memory.unityweb",
+"asmFrameworkUrl": "TitanPunkUnity.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
