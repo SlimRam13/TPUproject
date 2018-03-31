@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/UnityProgress.js"></script>  
     <script src="Build/UnityLoader.js"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109822764-1"></script>
     <script>
       var gameInstance = UnityLoader.instantiate("gameContainer", "Build/TitanPunkUnity.json", {onProgress: UnityProgress});
     </script>
@@ -21,19 +19,7 @@
         <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
         <div class="title">TitanPunk Unity</div>
-		<br />
-		<div class="links">
-			<h3>Links</h3>
-			<hr class="redfade" />
-			<a href="https://slimram.itch.io/titan-punk-unity">itch.io page</a>
-		</div>
       </div>
     </div>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-	  gtag('config', 'UA-109822764-1');
-	</script>
   </body>
 </html>
