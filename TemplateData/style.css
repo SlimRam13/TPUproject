@@ -16,18 +16,3 @@
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
-
-body {
-	background-color: #1d1d1d;
-}
-
-.title { color: white;}
-.links {text-align: center;}
-
-h3 { color: #e74c3c}
-
-.links a:link { color: #3498db;}
-.links a:hover { color: #e74c3c;}
-.links a:visited { color: #c0392b;}
-
-hr.redfade { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(231, 76, 60, 0), rgba(231, 76, 60, 0.75), rgba(231, 76, 60, 0)); }
