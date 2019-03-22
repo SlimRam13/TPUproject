@@ -1,6 +1,6 @@
 {
 "companyName": "SlimRam",
-"productName": "TitanPunk Unity",
+"productName": "TitanPunk Demo",
 "dataUrl": "TitanPunkUnity.data.unityweb",
 "wasmCodeUrl": "TitanPunkUnity.wasm.code.unityweb",
 "wasmFrameworkUrl": "TitanPunkUnity.wasm.framework.unityweb",
