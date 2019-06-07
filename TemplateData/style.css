@@ -23,6 +23,7 @@ body {
 
 .title { color: white;}
 .links {text-align: center;}
+ul.links{list-style:none;}
 
 h3 { color: #e74c3c}
 
